@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 
-srs/assets/database.js
+src/assets/database.js
